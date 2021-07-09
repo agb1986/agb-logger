@@ -1,0 +1,16 @@
+{
+  "name": "agb-logger",
+  "version": "1.0.0",
+  "description": "Simple logger created for personal use.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agb1986/agb-logger.git"
+  },
+  "author": "agb1986",
+  "dependencies": {
+    "jest": "27.0.6"
+  }
+}
